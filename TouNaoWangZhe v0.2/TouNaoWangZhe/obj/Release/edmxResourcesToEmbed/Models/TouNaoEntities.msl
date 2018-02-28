@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="TouNaoModelStoreContainer" CdmEntityContainer="TouNaoEntities">
+    <EntitySetMapping Name="TNWZ">
+      <EntityTypeMapping TypeName="TouNaoModel.TNWZ">
+        <MappingFragment StoreEntitySet="TNWZ">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Quiz" ColumnName="Quiz" />
+          <ScalarProperty Name="Options" ColumnName="Options" />
+          <ScalarProperty Name="Num" ColumnName="Num" />
+          <ScalarProperty Name="Answer" ColumnName="Answer" />
+          <ScalarProperty Name="HistoryAnswer" ColumnName="HistoryAnswer" />
+          <ScalarProperty Name="Result" ColumnName="Result" />
+          <ScalarProperty Name="CreateDate" ColumnName="CreateDate" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

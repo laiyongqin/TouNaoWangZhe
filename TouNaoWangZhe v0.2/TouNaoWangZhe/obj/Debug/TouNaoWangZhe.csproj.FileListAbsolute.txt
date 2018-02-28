@@ -1,0 +1,270 @@
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\ApplicationInsights.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\csc.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\vbc.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.dll.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.pdb
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Antlr3.Runtime.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.SqlServer.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Web.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Newtonsoft.Json.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Net.Http.Formatting.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Helpers.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.WebHost.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Mvc.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Optimization.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Razor.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\WebGrease.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Web.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Newtonsoft.Json.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Net.Http.Formatting.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Helpers.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.WebHost.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Mvc.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Optimization.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Razor.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Antlr3.Runtime.pdb
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.SqlServer.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.csprojResolveAssemblyReference.cache
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.pdb
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\ApplicationInsights.config
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\csc.exe
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\vbc.exe
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.dll.config
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\TouNaoWangZhe.pdb
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Antlr3.Runtime.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.SqlServer.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Web.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Newtonsoft.Json.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Owin.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Net.Http.Formatting.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Helpers.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.Owin.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.WebHost.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Mvc.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Optimization.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Razor.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Razor.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\WebGrease.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.Web.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Newtonsoft.Json.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Net.Http.Formatting.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Helpers.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.WebHost.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Mvc.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Optimization.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Razor.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.WebPages.Razor.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Antlr3.Runtime.pdb
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\EntityFramework.SqlServer.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\bin\System.Web.Http.Owin.xml
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.dll
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.pdb
+C:\Users\piano\Desktop\TouNaoWangZhe\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.csprojResolveAssemblyReference.cache
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\ApplicationInsights.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\csc.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\vbc.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\TouNaoWangZhe.dll.config
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\TouNaoWangZhe.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\TouNaoWangZhe.pdb
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Antlr3.Runtime.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\EntityFramework.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\EntityFramework.SqlServer.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.Web.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Newtonsoft.Json.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Net.Http.Formatting.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Helpers.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.Owin.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.WebHost.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Mvc.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Optimization.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Razor.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.Razor.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\WebGrease.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.Web.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.ApplicationInsights.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Newtonsoft.Json.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Net.Http.Formatting.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Helpers.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.WebHost.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Mvc.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Optimization.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Razor.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.WebPages.Razor.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Antlr3.Runtime.pdb
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\EntityFramework.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\EntityFramework.SqlServer.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\System.Web.Http.Owin.xml
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\bin\zh-Hans\EntityFramework.resources.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.dll
+C:\Users\ivan.ye\Desktop\TouNaoWangZhe v0.2\TouNaoWangZhe v0.2\TouNaoWangZhe\obj\Debug\TouNaoWangZhe.pdb

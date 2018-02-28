@@ -1,0 +1,86 @@
+ v0.2版本脚本--------------------------------------------------------------------
+将以下代码copy到fiddler 脚本的OnBeforeResponse方法下
+
+ if (oSession.fullUrl.Contains("question-zh.hortor.net/question/bat/findQuiz"))
+        {
+            //把内容通过ajax http发送其它地方
+            var _xhr = new ActiveXObject('Microsoft.XMLHTTP');
+            var url = 'http://localhost/TouNao/api/TouNaoApi/GetAnswerFromBaidu';
+
+            //不需要返回值所以设置为空回调
+            _xhr.onreadystatechange = function() {}
+            _xhr.open('POST', url, true);
+            _xhr.setRequestHeader("Content-Type", "application/json");
+            _xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+            _xhr.send(oSession.GetResponseBodyAsString());
+        }
+        if (oSession.fullUrl.Contains("question-zh.hortor.net/question/bat/choose"))
+        {
+            //把内容通过ajax http发送其它地方
+            var _xhr = new ActiveXObject('Microsoft.XMLHTTP');
+            var url = 'http://localhost/TouNao/api/TouNaoApi/updateresult';
+
+            //不需要返回值所以设置为空回调
+            _xhr.onreadystatechange = function() {}
+            _xhr.open('POST', url, true);
+            _xhr.setRequestHeader("Content-Type", "application/json");
+            _xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+            _xhr.send(oSession.GetResponseBodyAsString());
+        }
+---------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+if (oSession.fullUrl.Contains("question.hortor.net/question/bat/findQuiz"))
+        {
+            //把内容通过ajax http发送其它地方
+            var _xhr = new ActiveXObject('Microsoft.XMLHTTP');
+            var url = 'http://localhost/TouNaoWangZhe/api/TouNaoApi/GetAnswerFromBaidu/';
+
+            //不需要返回值所以设置为空回调
+            _xhr.onreadystatechange = function() {}
+            _xhr.open('POST', url, true);
+            _xhr.setRequestHeader("Content-Type", "application/json");
+            _xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+            _xhr.send(oSession.GetResponseBodyAsString());
+        }
+        //过滤无关请求，只关注特定请求   ivan add
+        if (oSession.fullUrl.Contains("question.hortor.net/question/bat/findQuiz"))
+        {
+            oSession.utilDecodeResponse();//消除保存的请求可能存在乱码的情况
+            var fso;
+            var file;
+            fso = new ActiveXObject("Scripting.FileSystemObject");
+            //文件保存路径，可自定义
+            file = fso.OpenTextFile("E:\\test\\reponse.txt",8 ,true, true);
+            file.writeLine("Response code: " + oSession.responseCode);
+            file.writeLine("Response body: " + oSession.GetResponseBodyAsString());
+            file.writeLine("\n");
+            file.close();
+        }
+
+
+
+ if (oSession.fullUrl.Contains("question-zh.hortor.net/question/bat/findQuiz"))
+        {
+            //把内容通过ajax http发送其它地方
+            var _xhr = new ActiveXObject('Microsoft.XMLHTTP');
+            var url = 'http://localhost/TouNaoWangZhe/api/TouNaoApi/GetAnswerFromBaidu';
+
+            //不需要返回值所以设置为空回调
+            _xhr.onreadystatechange = function() {}
+            _xhr.open('POST', url, true);
+            _xhr.setRequestHeader("Content-Type", "application/json");
+            _xhr.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+            _xhr.send(oSession.GetResponseBodyAsString());
+        }
